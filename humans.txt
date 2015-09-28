@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Muhammad Zafar	xafarr@gmail.com	@xafarr
 
 # THANKS
 
